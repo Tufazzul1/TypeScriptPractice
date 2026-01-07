@@ -23,12 +23,7 @@
 
     }
 
-    class studentAccount extends BankAccount {
-        test(){
-            this.
-        }
 
-    }
 
     const goribsAccount = new BankAccount(111, "Gorib", 100);
     goribsAccount.addDeposit(10);
